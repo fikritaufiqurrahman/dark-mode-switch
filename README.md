@@ -10,7 +10,7 @@
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/fikritaufiqurrahman/dark-mode-switch/archive/v1.0.0.zip)
+- [Download the latest release](https://github.com/fikritaufiqurrahman/dark-mode-switch.git)
 - Clone the repo `git clone https://github.com/fikritaufiqurrahman/dark-mode-switch.git`
 - Install with [npm](https://www.npmjs.com/package/dark-mode-switch) `npm install dark-mode-switch`
 - Install with [yarn](https://yarnpkg.com/en/package/dark-mode-switch) `yarn add dark-mode-switch`
