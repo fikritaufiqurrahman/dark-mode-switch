@@ -1,9 +1,3 @@
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/fikritaufiqurrahman/dark-mode-switch/master/LICENSE)
-[![GitHub Super-Linter](https://github.com/fikritaufiqurrahman/dark-mode-switch/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Best of JS](https://img.shields.io/endpoint?url=https://bestofjs-serverless.now.sh/api/project-badge?fullName=fikritaufiqurrahman%2Fdark-mode-switch%26since=monthly)](https://bestofjs.org/projects/dark-mode-switch)
-[![GitHub Stars](https://img.shields.io/github/stars/fikritaufiqurrahman/dark-mode-switch.svg?label=github%20stars)](https://github.com/fikritaufiqurrahman/dark-mode-switch)
-[![NPM Downloads](https://img.shields.io/npm/dt/dark-mode-switch.svg)](https://www.npmjs.com/package/dark-mode-switch)
 
 # 🌓 Dark Mode Switch
 
