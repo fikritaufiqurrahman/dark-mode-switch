@@ -7,10 +7,10 @@
 
 # 🌓 Dark Mode Switch
 
-Kelompok 6
-1207050025 - Deta Triandini
-1207050038 - Faza Mohamad Farsyafat
-1207050039 - Fikri Taufiqurrahman
+* Kelompok 6
+* 1207050025 - Deta Triandini
+* 1207050038 - Faza Mohamad Farsyafat
+* 1207050039 - Fikri Taufiqurrahman
 
 ## Quick start
 
