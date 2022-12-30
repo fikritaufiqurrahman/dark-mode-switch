@@ -7,10 +7,10 @@
 
 # 🌓 Dark Mode Switch
 
-Add a dark-mode theme toggle with a Bootstrap Custom Switch.
-
-- Uses local storage to save preference
-- Only 383 Bytes minified and gzipped!
+Kelompok 6
+1207050025 - Deta Triandini
+1207050038 - Faza Mohamad Farsyafat
+1207050039 - Fikri Taufiqurrahman
 
 ## Quick start
 
@@ -73,6 +73,10 @@ Works well with all the browsers supported by [Bootstrap 4](https://getbootstrap
 
 `WebSettings.setDomStorageEnabled(true)`
 
+The creator reference (https://github.com/coliff)
+
+
 ## Credits
 
 Created thanks to the excellent [dark-theme](https://codyhouse.co/blog/post/dark-light-switch-css-javascript) and [local storage](https://codyhouse.co/blog/post/store-theme-color-preferences-with-localstorage) tutorials over at [codyhouse.co](https://codyhouse.co).
+
